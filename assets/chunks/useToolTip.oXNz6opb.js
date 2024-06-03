@@ -1,0 +1,1 @@
+import{c as f}from"./useTable.BthQ08nK.js";import{ck as p}from"./Highlight.vue.DColn0Sx.js";import{Z as i,a as r}from"./framework.C1aPebBI.js";function u(a){var e=i({x:0,y:0}),o=r(null),t=r(!0),n=f(p,{offset:e,content:o,hidden:t},a),c=n.close,s=n.open;return{close:c,open:s,offset:e,content:o,hidden:t}}export{u};
