@@ -1,0 +1,1 @@
+import{av as e,m as o,p as d,aR as t}from"./chunks/framework.C1aPebBI.js";const f=JSON.parse('{"title":"dom操作","description":"","frontmatter":{},"headers":[],"relativePath":"zh/utils/dom.md","filePath":"zh/utils/dom.md"}'),a={name:"zh/utils/dom.md"},c=t("",4),s=[c];function l(i,n,r,m,_,h){return o(),d("div",null,s)}const p=e(a,[["render",l]]);export{f as __pageData,p as default};
