@@ -1,0 +1,1 @@
+import{av as a,m as e,p as i,aR as r}from"./chunks/framework.C1aPebBI.js";const f=JSON.parse('{"title":"类型判断","description":"","frontmatter":{},"headers":[],"relativePath":"zh/utils/is.md","filePath":"zh/utils/is.md"}'),s={name:"zh/utils/is.md"},t=r("",48),l=[t];function h(o,n,d,c,u,b){return e(),i("div",null,l)}const m=a(s,[["render",h]]);export{f as __pageData,m as default};
